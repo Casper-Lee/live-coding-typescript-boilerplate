@@ -1,11 +1,11 @@
-# ⭐️TypeScript Boilerplate⭐️
+# ⭐️Live Coding TypeScript Boilerplate⭐️
 
 ## 🚀 Introduction
-This is a TypeScript Boilerplate — a simple, ready-to-go TypeScript application designed to help you jump into live-coding during technical interviews.
+This is a Live Coding TypeScript Boilerplate — a simple, ready-to-go TypeScript application designed to help you jump into live-coding during technical interviews.
 
 ## Getting Started
 Step 1: 🚀 Initial Setup
-* Clone the repository: `git clone https://github.com/Casper-Lee/typescript-boilerplate.git`
+* Clone the repository: `git clone https://github.com/Casper-Lee/live-coding-typescript-boilerplate.git`
 * Install dependencies: `npm ci`
 
 Step 2: 🏃‍♂️ Running the Application
