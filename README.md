@@ -1,4 +1,4 @@
-# ⭐️Live Coding TypeScript Boilerplate⭐️
+# ⭐️⭐️Live Coding TypeScript Boilerplate⭐️⭐️
 
 ## 🚀 Introduction
 This is a Live Coding TypeScript Boilerplate — a simple, ready-to-go TypeScript application designed to help you jump into live-coding during technical interviews.
